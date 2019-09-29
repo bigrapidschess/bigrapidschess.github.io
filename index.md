@@ -1,7 +1,3 @@
-## This is just a quick file ##
+## Big Rapids Chess ##
 
---------
-
-* Does this work?  
-* We'll soon find out  
-
+This is a temporary placeholder for the Big Rapids Chess Club website. More to come...
