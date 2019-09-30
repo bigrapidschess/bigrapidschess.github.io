@@ -13,10 +13,12 @@ menu_settings:
     - title: 'Latest'
       url: '/'
     - title: 'Events'
-      url: '/projects/'
+      url: '/events/'
     - title: 'About'
       url: '/about'
-    - title: 'Contact'
+    - title: 'Join us'
+      url: '/join'
+    - title: 'Contact us'
       url: '/contact'
 
 grid_settings:
