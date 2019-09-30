@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Projects
-subtitle: What I've been working on lately.
+title: Recent Events
+subtitle: Here is some of what our club has been up to recently.
 description: Journal is a stunning personal blog Jekyll theme with an image-focused design.
 featured_image: /images/demo/demo-portrait.jpg
 ---
@@ -21,18 +21,18 @@ featured_image: /images/demo/demo-portrait.jpg
 
 	<div class="wrap">
 
-		{% for project in site.projects reversed %}
+		{% for event in site.events reversed %}
 
 		<div class="portfolio-item">
 
-			<a class="portfolio-item__link" href="{{ project.url }}">
+			<a class="portfolio-item__link" href="{{ event.url }}">
 
-				<div class="portfolio-item__image" style="background-image: url({{ project.featured_image  }});"></div>
+				<div class="portfolio-item__image" style="background-image: url({{ event.featured_image  }});"></div>
 
 				<div class="portfolio-item__content">
 					<div class="portfolio-item__info">
-						<h2 class="portfolio-item__title">{{ project.title }}</h2>
-						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+						<h2 class="portfolio-item__title">{{ event.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ event.subtitle }}</p>
 					</div>
 				</div>
 
