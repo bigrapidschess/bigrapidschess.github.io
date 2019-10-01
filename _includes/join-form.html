@@ -1,0 +1,42 @@
+<div class="contact-form">
+
+	<form method="post" action="" id="contact-form">
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Email Address *</label>
+			<input type="text" name="" placeholder="Your email address..." class="contact-form__input">
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Name *</label>
+			<input type="text" name="" placeholder="Your name..." class="contact-form__input">
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">What is your membership age range? *</label>
+  			<input type="radio" name="" value="Junior" checked> Junior - less than 18 years old<br>
+  			<input type="radio" name="" value="Regular"> Regular - between 18 and 64 years old<br>
+			<input type="radio" name="" value="Senior"> Senior - over 64 years old
+		</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">What is your playing ability? *</label>
+  			<input type="radio" name="" value="Novice" checked> Novice - never played before<br>
+  			<input type="radio" name="" value="Beginner"> Beginner - know the rules<br>
+			<input type="radio" name="" value="Casual"> Casual - play occasionally against friends<br>
+			<input type="radio" name="" value="Advanced"> Advanced - play in tournaments
+			</div>
+
+		<div class="contact-form__item">
+			<label class="contact-form__label">Do you have a USCF player rating? *</label>
+  			<input type="radio" name="" value="No" checked> No<br>
+  			<input type="radio" name="" value="No" checked> Yes
+  		</div>
+
+		<div class="contact-form__item">
+			<input type="submit" value="{{ site.data.settings.contact_settings.send_button_text }}" class="button button--large">
+		</div>
+
+	</form>
+
+</div>
