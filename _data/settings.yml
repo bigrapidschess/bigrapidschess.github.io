@@ -1,6 +1,6 @@
 basic_settings:
   site_title: Big Rapids Chess
-  site_tagline: The purpose of Big Rapids Chess is to promote chess in the Big Rapids area by creating a safe environment where members, regardless of experience or identity, can meet to learn about and play chess on a regular basis.
+  site_tagline: Our goal is to promote chess in the Big Rapids area by creating a safe environment where members, regardless of experience or identity, can meet to learn about and play chess on a regular basis.
   favicon_image: /images/favicon.png
 
 header_settings:
@@ -12,13 +12,15 @@ menu_settings:
   menu_items:
     - title: 'Latest'
       url: '/'
-    - title: 'Events'
+    - title: 'Club Events'
       url: '/projects'
-    - title: 'About'
+    - title: 'Playing Online'
+      url: '/online'
+    - title: 'About Us'
       url: '/about'
-    - title: 'Join us'
+    - title: 'Join the Club'
       url: '/join'
-    - title: 'Contact us'
+    - title: 'Contact Us'
       url: '/contact'
 
 grid_settings:
