@@ -4,16 +4,16 @@
 
 		<div class="contact-form__item">
 			<label class="contact-form__label">Email Address *</label>
-			<input type="text" name="email" placeholder="Your email address..." class="contact-form__input">
+			<input type="text" name="email" placeholder="Your email address..." class="contact-form__input" required>
 		</div>
 
 		<div class="contact-form__item">
 			<label class="contact-form__label">Name *</label>
-			<input type="text" name="name" placeholder="Your name..." class="contact-form__input">
+			<input type="text" name="name" placeholder="Your name..." class="contact-form__input" required>
 		</div>
 		<div class="contact-form__item">
-      		<label class="contact-form__label">What is you level of chess experience?</label><br />
-      		<select name="experience" id="experience" required="">
+      		<label class="contact-form__label">What is your level of chess experience?</label><br />
+      		<select name="experience" id="experience" required>
     		<option value="Choose" selected="" disabled="">Select one</option>
     		<option value="Novice">Novice (never played before)</option>
     		<option value="Beginner">Beginner (know the basic rules)</option>
@@ -21,14 +21,14 @@
     		<option value="Advanced">Advanced (play in tournaments with others)</option>
     		</select><br /><br />
    			<label class="contact-form__label">What age range are you in?</label><br />
-  			<select name="age" id="age" required="">
+  			<select name="age" id="age" required>
    			<option value="Choose" selected="" disabled="">Choose one</option>
   			<option value="Junior">Junior member (less than 18 years old)</option>
   			<option value="Regular">Standard member (between 18 and 64 years old, inclusively)</option>
 			<option value="Senior">Senior member (over 64 years old)</option>
  			</select><br /><br />
   			<label class="contact-form__label">Do you currently have a USCF chess rating?</label><br />
-  			<select name="rated" id="rated" required="">
+  			<select name="rated" id="rated" required>
    			<option value="Choose" selected="" disabled="">Choose one</option>
   			<option value="No">No (Unrated)</option>
 			<option value="Yes">Yes (Rated player)</option>
