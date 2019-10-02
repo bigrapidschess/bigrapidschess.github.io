@@ -11,6 +11,8 @@
 			<label class="contact-form__label">Name *</label>
 			<input type="text" name="name" placeholder="Your name..." class="contact-form__input">
 		</div>
+
+		<div class="contact-form__item">
 		<fieldset id="fs-frm-selects">
       		<label for="timely">1. The service provided was completed in a timely manner.</label>
       		<select name="timely" id="timely" required="">
@@ -20,7 +22,7 @@
     		<option value="5">Neutral</option>
     		<option value="7">Disagree</option>
     		<option value="9">Strongly Disagree</option>
-    		</select>
+    		</select><br /><br />
    			<label for="timely">2. The quality of work was high in quality.</label>
   			<select name="quality" id="quality" required="">
    			<option value="Choose" selected="" disabled="">Choose</option>
@@ -31,6 +33,7 @@
 			<option value="9">Strongly Disagree</option>
  			</select>
 		</fieldset>
+		</div>
 
 		<input type="hidden" name="_next" value="{{ site.data.settings.contact_settings.confirmation_url }}" />
 		<input type="hidden" name="_subject" value="{{ site.data.settings.contact_settings.email_subject2 }}" />
