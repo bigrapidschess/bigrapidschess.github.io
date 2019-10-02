@@ -1,37 +1,40 @@
 <div class="contact-form">
 
-	<form method="post" action="" id="contact-form">
+	<form method="post" action="{{ site.data.settings.contact_settings.form_action }}" id="join-form">
 
 		<div class="contact-form__item">
 			<label class="contact-form__label">Email Address *</label>
-			<input type="text" name="" placeholder="Your email address..." class="contact-form__input">
+			<input type="text" name="email" placeholder="Your email address..." class="contact-form__input">
 		</div>
 
 		<div class="contact-form__item">
 			<label class="contact-form__label">Name *</label>
-			<input type="text" name="" placeholder="Your name..." class="contact-form__input">
+			<input type="text" name="name" placeholder="Your name..." class="contact-form__input">
 		</div>
+		<fieldset id="fs-frm-selects">
+      		<label for="timely">1. The service provided was completed in a timely manner.</label>
+      		<select name="timely" id="timely" required="">
+    		<option value="Choose" selected="" disabled="">Choose</option>
+    		<option value="1">Strongly Agree</option>
+    		<option value="3">Agree</option>
+    		<option value="5">Neutral</option>
+    		<option value="7">Disagree</option>
+    		<option value="9">Strongly Disagree</option>
+    		</select>
+   			<label for="timely">2. The quality of work was high in quality.</label>
+  			<select name="quality" id="quality" required="">
+   			<option value="Choose" selected="" disabled="">Choose</option>
+  			<option value="1">Strongly Agree</option>
+  			<option value="3">Agree</option>
+ 			<option value="5">Neutral</option>
+			<option value="7">Disagree</option>
+			<option value="9">Strongly Disagree</option>
+ 			</select>
+		</fieldset>
 
-		<div class="contact-form__item">
-			<label class="contact-form__label">What is your membership age range? *</label>
-  			<input type="radio" name="one" value="Junior" class="contact-form__radio"> Junior - less than 18 years old<br>
-  			<input type="radio" name="one" value="Regular" class="contact-form__radio"> Regular - between 18 and 64 years old<br>
-			<input type="radio" name="one" value="Senior" class="contact-form__radio"> Senior - over 64 years old
-		</div>
-
-		<div class="contact-form__item">
-			<label class="contact-form__label">What is your playing ability? *</label>
-  			<input type="radio" name="two" value="Novice" class="contact-form__input"> Novice - never played before<br>
-  			<input type="radio" name="two" value="Beginner" class="contact-form__input"> Beginner - know the rules<br>
-			<input type="radio" name="two" value="Casual" class="contact-form__input"> Casual - play occasionally against friends<br>
-			<input type="radio" name="two" value="Advanced" class="contact-form__input"> Advanced - play in tournaments
-			</div>
-
-		<div class="contact-form__item">
-			<label class="contact-form__label">Do you have a USCF player rating? *</label>
-  			<input type="radio" name="three" value="No"  class="contact-form__input"> No<br>
-  			<input type="radio" name="three" value="Yes" class="contact-form__input"> Yes
-  		</div>
+		<input type="hidden" name="_next" value="{{ site.data.settings.contact_settings.confirmation_url }}" />
+		<input type="hidden" name="_subject" value="{{ site.data.settings.contact_settings.email_subject2 }}" />
+		<input type="text" name="_gotcha" style="display: none;" class="contact-form__gotcha" val="">
 
 		<div class="contact-form__item">
 			<input type="submit" value="{{ site.data.settings.contact_settings.send_button_text }}" class="button button--large">
