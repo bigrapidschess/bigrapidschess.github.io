@@ -1,10 +1,11 @@
 ---
-title: Contact
-subtitle: Journal comes with a built-in contact form, that's free and easy to set up.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+title: Join us
+subtitle: Fill out this form to be added to our membership roster.
+description: A Formspree form to gather membership.
 featured_image: /images/demo/demo-portrait.jpg
 ---
 
+We are always looking for more people who are interested in chess in the Big Rapids area. We do not discriminate based upon playing experience, age, race, or any other conditions. Please fill in this form to be added to our roster. This information will enable us to better serve our members. Thanks.
+
 {% include join-form.html %}
 
-We've made a contact form that you can use with [Formspree](https://formspree.io/) to handle up to 50 submissions per month for free. You could also easily switch out the end-point to use another contact form service.
