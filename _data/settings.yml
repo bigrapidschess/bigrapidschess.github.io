@@ -13,7 +13,7 @@ menu_settings:
     - title: 'Latest'
       url: '/'
     - title: 'Club Events'
-      url: '/projects'
+      url: '/events'
     - title: 'Playing Online'
       url: '/online'
     - title: 'About Us'
