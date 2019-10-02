@@ -25,9 +25,10 @@ grid_settings:
   grid_spacing: 10
 
 contact_settings:
-  form_action: 'https://formspree.io/your@email.com'
+  form_action: 'https://formspree.io/bigrapidschess@gmail.com'
   confirmation_url: '/thanks'
   email_subject: 'Contact form submission'
+  email_subject2: 'Join form submission'
   send_button_text: 'Send Message'
 
 social_settings:
