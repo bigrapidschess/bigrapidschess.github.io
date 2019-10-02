@@ -11,28 +11,28 @@
 			<label class="contact-form__label">Name *</label>
 			<input type="text" name="name" placeholder="Your name..." class="contact-form__input">
 		</div>
-		<p>Please tell us a little about yourself:</p>
 		<div class="contact-form__item">
-
-      		<label class="contact-form__label">1. The service provided was completed in a timely manner.</label>
-      		<select name="timely" id="timely" required="">
-    		<option value="Choose" selected="" disabled="">Choose</option>
-    		<option value="1">Strongly Agree</option>
-    		<option value="3">Agree</option>
-    		<option value="5">Neutral</option>
-    		<option value="7">Disagree</option>
-    		<option value="9">Strongly Disagree</option>
+      		<label class="contact-form__label">What is you level of chess experience?</label><br />
+      		<select name="experience" id="experience" required="">
+    		<option value="Choose" selected="" disabled="">Select one</option>
+    		<option value="Novice">Novice (never played before)</option>
+    		<option value="Beginner">Beginner (know the basic rules)</option>
+    		<option value="Casual">Casual (play occasional games with friends)</option>
+    		<option value="Advanced">Advanced (play in tournaments with others)</option>
     		</select><br /><br />
-   			<label class="contact-form__label">2. The quality of work was high in quality.</label>
-  			<select name="quality" id="quality" required="">
-   			<option value="Choose" selected="" disabled="">Choose</option>
-  			<option value="1">Strongly Agree</option>
-  			<option value="3">Agree</option>
- 			<option value="5">Neutral</option>
-			<option value="7">Disagree</option>
-			<option value="9">Strongly Disagree</option>
+   			<label class="contact-form__label">What age range are you in?</label><br />
+  			<select name="age" id="age" required="">
+   			<option value="Choose" selected="" disabled="">Choose one</option>
+  			<option value="Junior">Junior member (less than 18 years old)</option>
+  			<option value="Regular">Standard member (between 18 and 64 years old, inclusively)</option>
+			<option value="Senior">Senior member (over 64 years old)</option>
+ 			</select><br /><br />
+  			<label class="contact-form__label">Do you currently have a USCF chess rating?</label><br />
+  			<select name="rated" id="rated" required="">
+   			<option value="Choose" selected="" disabled="">Choose one</option>
+  			<option value="No">No (Unrated)</option>
+			<option value="Yes">Yes (Rated player)</option>
  			</select>
-
 		</div>
 
 		<input type="hidden" name="_next" value="{{ site.data.settings.contact_settings.confirmation_url }}" />
