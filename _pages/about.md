@@ -1,8 +1,8 @@
 ---
-title: About Journal
+title: About Big Rapids Chess
 subtitle: A stunning personal blog Jekyll theme with an image-focused design.
 description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/my_background.jpg
+featured_image: /images/my_background_green.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
