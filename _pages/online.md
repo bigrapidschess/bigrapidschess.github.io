@@ -2,7 +2,7 @@
 title: Playing Online
 subtitle: Sometimes it is difficult to find someone to play chess face-to-face. Here are some online resources for playing and learning about chess when you cannot get to our club.
 description: A stunning personal blog Jekyll theme with an image-focused design.
-featured_image: /images/demo/demo-portrait.jpg
+featured_image: /images/my_background_green.jpg
 ---
 
 ![](/images/demo/demo-landscape.jpg)
