@@ -10,6 +10,9 @@ collections:
   projects:
     output: true
     permalink: /project/:slug
+  resources:
+    output: true
+    permalink: /resource/:slug
 
 defaults:
   -
@@ -35,6 +38,12 @@ defaults:
       type: "projects"
     values:
       layout: "project"
+  -
+    scope:
+      path: ""
+      type: "resources"
+    values:
+      layout: "resource"
 
 markdown: kramdown
 
@@ -49,5 +58,5 @@ plugins:
   - jekyll-paginate
   - jekyll-sitemap
 
-paginate: 6
+paginate: 3
 paginate_path: "/blog/page:num/"
