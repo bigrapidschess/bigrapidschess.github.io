@@ -2,7 +2,8 @@
 title: 'Chess Sets in Big Rapids'
 subtitle: 'As part of an ongoing effort to increase the interest in chess in Big Rapids, free chess sets have been placed in several local businesses for people to use.'
 date: 2019-10-04 00:00:00
-featured_image: /images/resources/initiative.jpg
+featured_image: /images/my_background_green.jpg
+background_image: /images/resources/initiative.jpg
 ---
 
 ![](/images/resources/initiative.jpg)
