@@ -10,16 +10,16 @@ header_settings:
 
 menu_settings:
   menu_items:
-    - title: 'Latest'
+    - title: 'Home'
       url: '/'
-    - title: 'Recent Events'
+    - title: 'About Us'
+      url: '/about'
+    - title: 'Club Events'
       url: '/events'
     - title: 'Resources'
       url: '/resources'
     - title: 'Playing Online'
       url: '/online'
-    - title: 'About Us'
-      url: '/about'
     - title: 'Join the Club'
       url: '/join'
     - title: 'Contact Us'
@@ -30,7 +30,7 @@ grid_settings:
 
 contact_settings:
   form_action: 'https://formspree.io/bigrapidschess@gmail.com'
-  confirmation_url: '/thanks'
+  confirmation_url: 'https://bigrapidschess.com/thanks.html'
   email_subject: 'Contact form submission'
   email_subject2: 'Join form submission'
   send_button_text: 'Send Message'
