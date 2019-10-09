@@ -1,7 +1,7 @@
 ---
-title: About Big Rapids Chess
-subtitle: A stunning personal blog Jekyll theme with an image-focused design.
-description: A stunning personal blog Jekyll theme with an image-focused design.
+title: About Us
+subtitle: Background information about Big Rapids Chess
+description: Meeting times and places, purpose, affiliation, and other information.
 featured_image: /images/my_background_green.jpg
 ---
 
