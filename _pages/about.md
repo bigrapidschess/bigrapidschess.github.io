@@ -1,6 +1,6 @@
 ---
 title: About Us
-subtitle: Background information about Big Rapids Chess
+subtitle: 
 description: Meeting times and places, purpose, affiliation, and other information.
 featured_image: /images/my_background_green.jpg
 ---
@@ -8,7 +8,7 @@ featured_image: /images/my_background_green.jpg
 ![](/images/BRChess_logo.png)
 
 ## Our mission
-The purpose of Big Rapids Chess is to promote chess in the Big Rapids area by creating a safe environment where members, regardless of experience or identity, can meet to learn about and play chess on a regular basis. This group is not for profit; no part of any dues, contributions, assets or net income shall benefit any individual.  
+The purpose of Big Rapids Chess is to promote chess in the Big Rapids area by creating a safe environment where members can meet to learn about and play chess on a regular basis. This group is not for profit; no part of any dues, contributions, assets or net income shall benefit any individual.  
 
 Big Rapids Chess membership is open to all interested people regardless of race, ethnicity, gender, sexual orientation, age, social class, national origin, political beliefs, or membership in the USCF subject to any qualifications (such as dues, entry fees and participation) required for specific events.
 
