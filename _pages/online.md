@@ -5,7 +5,7 @@ description: A stunning personal blog Jekyll theme with an image-focused design.
 featured_image: /images/my_background_green.jpg
 ---
 
-![](/images/chess.png){:style="float:left; clear:left;"} [Chess.com](https://www.chess.com) is a great place to play online. There are over 3,000,000 members and thousands of games every day. You can create an account for free. However, you will have access to more resources is you pay to join. This site also includes puzzles to solve and articles to read, and lessons that you can take. We have a club page, [Big Rapids Chess](https://www.chess.com/club/big-rapids-chess), on the site as well.
+<a href="https://www.chess.com"><img src="images/chess.png" class="Cliff" style="float:left; clear:left;">Chess.com</a> is a great place to play online. There are over 3,000,000 members and thousands of games every day. You can create an account for free. However, you will have access to more resources is you pay to join. This site also includes puzzles to solve and articles to read, and lessons that you can take. We have a club page, [Big Rapids Chess](https://www.chess.com/club/big-rapids-chess), on the site as well.
 
 
 
