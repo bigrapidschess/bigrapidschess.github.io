@@ -5,31 +5,24 @@ description: Meeting times and places, purpose, affiliation, and other informati
 featured_image: /images/my_background_green.jpg
 ---
 
-![](/images/demo/demo-landscape.jpg)
+![](/images/BRChess_logo.png)
 
-## Features
+## Our mission
+The purpose of Big Rapids Chess is to promote chess in the Big Rapids area by creating a safe environment where members, regardless of experience or identity, can meet to learn about and play chess on a regular basis. This group is not for profit; no part of any dues, contributions, assets or net income shall benefit any individual.  
 
-Journal is packed with powerful features to showcase your work:
+Big Rapids Chess membership is open to all interested people regardless of race, ethnicity, gender, sexual orientation, age, social class, national origin, political beliefs, or membership in the USCF subject to any qualifications (such as dues, entry fees and participation) required for specific events.
 
-* Beautiful, minimal design
-* Fixed sidebar images that animate as you browse
-* Single column post layout
-* Responsive – works perfectly on all devices
-* Portfolio/projects post type to show your work
-* Blog with pagination
-* Sleek Ajax navigation and page transitions
-* Unique 'gallery' feature for image grids and carousels
-* Built-in contact form with Formspree integration
-* Full markdown support and code highlighting
-* Social media icons
-* Fast page rendering
-* Built with SEO best practices in mind
-* Customize everything – colors, spacing, fonts, sizes etc. – via a simple settings file
-* Works with GitHub Pages
-* Updated and supported by the developers
+## Meeting places and times
+Beginning October 16, 2019, Big Rapids Chess will meet weekly. We meet on campus at Ferris State University in the [University Center](https://www.ferris.edu/HTMLS/administration/studentaffairs/RC/index.html) near the Starbucks on Wednesdays from 2:00 to 4:00 pm. We also meet at the [Big Rapids Community Library](https://www.bigrapids.lib.mi.us) in the Community room on Thursdays from 5:00 to 7:00 pm. 
 
-## Get Index
+## Affiliations
+Since this is a new group, we have not yet established any affiliations with other chess groups. If we reach a stable number of regular members, we will move to become an official affiliate of the [United States Chess Federation](https://new.uschess.org/home/). That would allow us to host rated games and tournaments in Big Rapids. We could also work to later coordinate with the [Michigan Chess Association](https://www.michess.org).
 
-Journal is created and supported by [Jekyll Themes](https://jekyllthemes.io), and is available for $39.
+## Collegiate chess
+We already meet informally on the campus of Ferris State University. However, it is our ultimate goal to establish a Registered Student Organization on campus. This RSO would be a student-led branch of the Big Rapis Chess club. 
 
-<a href="https://jekyllthemes.io/theme/journal-personal-jekyll-theme" class="button button--large">Get This Theme</a>
+## Scholastic chess
+We anticipate that many young players may be interested in participating in this group. If enough junior members are interested, we may develop a scholastic branch of the club that is dedicated to teaching chess basics and providing safe opportunities to play both face-to-face and online chess games.
+
+## Club bylaws
+As for now, the club is still in its infancy and organization is rather loose. Once  membership grows to more than about a dozen or so regularly attending members, we will adopt specific bylaws and formalize the group's leadership.
