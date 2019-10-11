@@ -162,7 +162,7 @@ font_settings:
 
 advanced_settings:
   ajax_loading: true
-  analytics_code: "UA-149838229-1"
+  analytics_code: 'UA-149838229-1'
   custom_styles: ""
-  header_js: ""
+  header_js: 'analytics.html'
   footer_js: ""
