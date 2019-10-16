@@ -1,5 +1,5 @@
 ---
-title: Join the Club
+title: Join Our Club
 subtitle: Fill out this form to be added to our membership roster.
 description: A Formspree form to gather membership.
 featured_image: /images/my_background_green.jpg
