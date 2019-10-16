@@ -20,7 +20,7 @@ menu_settings:
       url: '/resources'
     - title: 'Playing Online'
       url: '/online'
-    - title: 'Join the Club'
+    - title: 'Join Our Club'
       url: '/join'
     - title: 'Contact Us'
       url: '/contact'
