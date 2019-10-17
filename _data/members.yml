@@ -4,10 +4,9 @@
   level:  Casual
   age:    Junior
   uscf:   Yes, unrated
-  - games:
-    W:  5
-    D:  1
-    L:  4
+  W:  5
+  D:  1
+  L:  4
   rating: 1560
   ladder: 2 (+2)
 
@@ -17,10 +16,9 @@
   level:  Casual
   age:    Junior
   uscf:   No
-  - games:
-    W:  2
-    D:  4
-    L:  4
+  W:  2
+  D:  4
+  L:  4
   rating: 1120
   ladder: 8
 
@@ -30,10 +28,9 @@
   level:  Casual
   age:    Junior
   uscf:   No
-  - games:
-    W:  5
-    D:  1
-    L:  4
+  W:  5
+  D:  1
+  L:  4
   rating: 1440
   ladder: 3 (-1)
 
@@ -43,10 +40,9 @@
   level:  Casual
   age:    Junior
   uscf:   No
-  - games:
-    W:  3
-    D:  3
-    L:  4
+  W:  3
+  D:  3
+  L:  4
   rating: 975
   ladder: 9
 
@@ -56,10 +52,9 @@
   level:  Casual
   age:    Regular
   uscf:   No
-  - games:
-    W:  0
-    D:  0
-    L:  0
+  W:  0
+  D:  0
+  L:  0
   rating: 1200
   ladder: 12
 
@@ -69,10 +64,9 @@
   level:  Advanced
   age:    Senior
   uscf:   Yes, 1042
-  - games:
-    W:  12
-    D:  1
-    L:  2
+  W:  12
+  D:  1
+  L:  2
   rating: 1695
   ladder: 1
 
@@ -82,10 +76,9 @@
   level:  Casual
   age:    Regular
   uscf:   Yes, 910
-  - games:
-    W:  2
-    D:  3
-    L:  5
+  W:  2
+  D:  3
+  L:  5
   rating: 1132
   ladder: 7
 
@@ -95,10 +88,9 @@
   level:  Advanced
   age:    Senior
   uscf:   Yes, 912
-  - games:
-    W:  5
-    D:  4
-    L:  11
+  W:  5
+  D:  4
+  L:  11
   rating: 1330
   ladder: 4 (-1)
 
@@ -108,10 +100,9 @@
   level:  Beginner
   age:    Senior
   uscf:   No
-  - games:
-    W:  0
-    D:  1
-    L:  9
+  W:  0
+  D:  1
+  L:  9
   rating: 725
   ladder: 10
 
@@ -121,10 +112,9 @@
   level:  Casual
   age:    Senior
   uscf:   No
-  - games:
-    W:  3
-    D:  3
-    L:  4
+  W:  3
+  D:  3
+  L:  4
   rating: 1250
   ladder: 6
 
@@ -134,10 +124,10 @@
   level:  Beginner
   age:    Junior
   uscf:   No
-  - games:
-    W:  0
-    D:  0
-    L:  0
+  games:
+  W:  0
+  D:  0
+  L:  0
   rating: 1200
   ladder: 11
 
@@ -147,9 +137,8 @@
   level:  Beginner
   age:    Regular
   uscf:   No
-  - games:
-    W:  4
-    D:  4
-    L:  2
+  W:  4
+  D:  4
+  L:  2
   rating: 1300
   ladder: 5
