@@ -8,7 +8,7 @@
   D:  1
   L:  4
   rating: 1560
-  ladder: Knights 2 (+2)
+  ladder: 2
 
 - name:   Bear, Yogi
   email:  test@gmail.com
@@ -20,7 +20,7 @@
   D:  4
   L:  4
   rating: 1120
-  ladder: Knights 8
+  ladder: 8
 
 - name:   Blow, Joseph
   email:  test@gmail.com
@@ -32,7 +32,7 @@
   D:  1
   L:  4
   rating: 1440
-  ladder: Knights 3 (-1)
+  ladder: 3
 
 - name:   Bunny, Bugs
   email:  test@gmail.com
@@ -44,7 +44,7 @@
   D:  3
   L:  4
   rating: 975
-  ladder: Knights 9
+  ladder: 9
 
 - name:   Coyote, Wile E.
   email:  test@gmail.com
@@ -56,7 +56,7 @@
   D:  0
   L:  0
   rating: 1200
-  ladder: Knights 12
+  ladder: 12
 
 - name:   Doo, Scooby
   email:  test@gmail.com
@@ -68,7 +68,7 @@
   D:  1
   L:  2
   rating: 1695
-  ladder: Knights 1
+  ladder: 1
 
 - name:   Duck, Donald
   email:  test@gmail.com
@@ -80,7 +80,7 @@
   D:  3
   L:  5
   rating: 1132
-  ladder: Knights 7
+  ladder: 7
 
 - name:   Flintstone, Fred
   email:  test@gmail.com
@@ -92,7 +92,7 @@
   D:  4
   L:  11
   rating: 1330
-  ladder: Knights 4 (-1)
+  ladder: 4
 
 - name:   Jetson, George
   email:  test@gmail.com
@@ -104,7 +104,7 @@
   D:  1
   L:  9
   rating: 725
-  ladder: Knights 10
+  ladder: 10
 
 - name:   Lehorn, Foghorn
   email:  test@gmail.com
@@ -116,7 +116,7 @@
   D:  3
   L:  4
   rating: 1250
-  ladder: Knights 6
+  ladder: 6
 
 - name:   Mouse, Mickey
   email:  test@gmail.com
@@ -129,7 +129,7 @@
   D:  0
   L:  0
   rating: 1200
-  ladder: Knights 11
+  ladder: 11
 
 - name:   Mouse, Minnie
   email:  test@gmail.com
@@ -141,4 +141,4 @@
   D:  4
   L:  2
   rating: 1300
-  ladder: Knights 5
+  ladder: 5
