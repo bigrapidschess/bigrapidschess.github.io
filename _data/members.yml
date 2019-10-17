@@ -8,7 +8,7 @@
   D:  1
   L:  4
   rating: 1560
-  ladder: 2
+  ladder: 2 (+2)
 
 - name:   Bear, Yogi
   email:  test@gmail.com
@@ -32,7 +32,7 @@
   D:  1
   L:  4
   rating: 1440
-  ladder: 3
+  ladder: 3 (-1)
 
 - name:   Bunny, Bugs
   email:  test@gmail.com
@@ -55,7 +55,7 @@
   W:  0
   D:  0
   L:  0
-  rating: 1200
+  rating: 1200 (new)
   ladder: 12
 
 - name:   Doo, Scooby
@@ -92,7 +92,7 @@
   D:  4
   L:  11
   rating: 1330
-  ladder: 4
+  ladder: 4 (-1)
 
 - name:   Jetson, George
   email:  test@gmail.com
@@ -128,7 +128,7 @@
   W:  0
   D:  0
   L:  0
-  rating: 1200
+  rating: 1200 (new)
   ladder: 11
 
 - name:   Mouse, Minnie
