@@ -1,16 +1,3 @@
-##############################################################
-##                                                          ##
-##  BIG RAPIDS CHESS MEMBERSHIP ROSTER                      ##
-##  Some of this data will be used to create a web table    ##
-##                                                          ##
-##  © Dr. Clifton Franklund, MIT                            ##
-##                                                          ##
-##  October 2019                                            ##
-##                                                          ##
-##############################################################
-
-members:
-
 - name:   Ant, Atom
   email:  test@gmail.com
   dues:   $0.00
@@ -23,7 +10,7 @@ members:
     - L:  4
   rating: 1560
   ladder: 2 (+2)
- 
+
 - name:   Bear, Yogi
   email:  test@gmail.com
   dues:   $0.00
@@ -36,7 +23,7 @@ members:
     - L:  4
   rating: 1120
   ladder: 8
- 
+
 - name:   Blow, Joseph
   email:  test@gmail.com
   dues:   $0.00
@@ -62,7 +49,7 @@ members:
     - L:  4
   rating: 975
   ladder: 9
- 
+
 - name:   Coyote, Wile E.
   email:  test@gmail.com
   dues:   $0.00
@@ -75,7 +62,7 @@ members:
     - L:  0
   rating: 1200
   ladder: 12
- 
+
 - name:   Doo, Scooby
   email:  test@gmail.com
   dues:   $0.00
@@ -101,7 +88,7 @@ members:
     - L:  5
   rating: 1132
   ladder: 7
- 
+
 - name:   Flintstone, Fred
   email:  test@gmail.com
   dues:   $0.00
@@ -114,7 +101,7 @@ members:
     - L:  11
   rating: 1330
   ladder: 4 (-1)
- 
+
 - name:   Jetson, George
   email:  test@gmail.com
   dues:   $0.00
@@ -140,7 +127,7 @@ members:
     - L:  4
   rating: 1250
   ladder: 6
- 
+
 - name:   Mouse, Mickey
   email:  test@gmail.com
   dues:   $0.00
@@ -153,7 +140,7 @@ members:
     - L:  0
   rating: 1200
   ladder: 11
- 
+
 - name:   Mouse, Minnie
   email:  test@gmail.com
   dues:   $0.00
