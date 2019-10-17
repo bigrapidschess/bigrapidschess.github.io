@@ -3,13 +3,13 @@
 <table id="keywords">
 	<thead>
 		<tr>
-			<th style="width:30%;"><span>Player Name</span></th>
-			<th style="width:30%;"><span>Games Played</span></th>
-			<th style="width: 20%;"><span>Club Rating</span></th>
-			<th style="width: 20%;"><span>Ladder Position</span></th>
+			<th><span>Player Name</span></th>
+			<th><span>Games Played</span></th>
+			<th><span>Club Rating</span></th>
+			<th><span>Ladder Position</span></th>
 		</tr>
 	</thead>
-	<tbody class="list">
+	<tbody>
 	{% for item in site.data.members %}
 		<tr>
 			<td>{{ item.name }}</td>
