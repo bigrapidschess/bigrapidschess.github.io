@@ -3,8 +3,8 @@
 		<tr>
 			<th><span>Player Name</span></th>
 			<th><span>Games Played</span></th>
-			<th><span class="sorter: 'digit'">Club Rating</span></th>
-			<th class="sorter: 'digit'"><span>Ladder Position</span></th>
+			<th><span>Club Rating</span></th>
+			<th><span>Ladder Position</span></th>
 		</tr>
 	</thead>
 	<tbody>
@@ -22,6 +22,10 @@
 
 <script type="text/javascript">
 jQuery(document).ready(function($){
-  $('#keywords').tablesorter();
+  $('#keywords').tablesorter(
+  	headers: {
+         3: { sorter: 'digit' } // column number, type
+     }
+  );
 });
 </script>
