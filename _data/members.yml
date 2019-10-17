@@ -1,131 +1,168 @@
-- name: Blow, Joe
-  level:
-  membership:
-  uscf:
-  rating:
-  ladder:
-  games:
-    - W ##
-    - D ##
-    - L ##
+##############################################################
+##                                                          ##
+##  BIG RAPIDS CHESS MEMBERSHIP ROSTER                      ##
+##  Some of this data will be used to create a web table    ##
+##                                                          ##
+##  © Dr. Clifton Franklund, MIT                            ##
+##                                                          ##
+##  October 2019                                            ##
+##                                                          ##
+##############################################################
 
-- name:
-  level:
-  membership:
-  uscf:
-  rating:
-  ladder:
-  games:
-    - W ##
-    - D ##
-    - L ##
+members:
 
-- name:
-  level:
-  membership:
-  uscf:
-  rating:
-  ladder:
+- name:   Ant, Atom
+  email:  test@gmail.com
+  dues:   $0.00
+  level:  Casual
+  age:    Junior
+  uscf:   Yes, unrated
   games:
-    - W ##
-    - D ##
-    - L ##
+    - W:  5
+    - D:  1
+    - L:  4
+  rating: 1560
+  ladder: 2 (+2)
+ 
+- name:   Bear, Yogi
+  email:  test@gmail.com
+  dues:   $0.00
+  level:  Casual
+  age:    Junior
+  uscf:   No
+  games:
+    - W:  2
+    - D:  4
+    - L:  4
+  rating: 1120
+  ladder: 8
+ 
+- name:   Blow, Joseph
+  email:  test@gmail.com
+  dues:   $0.00
+  level:  Casual
+  age:    Junior
+  uscf:   No
+  games:
+    - W:  5
+    - D:  1
+    - L:  4
+  rating: 1440
+  ladder: 3 (-1)
 
-- name:
-  level:
-  membership:
-  uscf:
-  rating:
-  ladder:
+- name:   Bunny, Bugs
+  email:  test@gmail.com
+  dues:   $0.00
+  level:  Casual
+  age:    Junior
+  uscf:   No
   games:
-    - W ##
-    - D ##
-    - L ##
+    - W:  3
+    - D:  3
+    - L:  4
+  rating: 975
+  ladder: 9
+ 
+- name:   Coyote, Wile E.
+  email:  test@gmail.com
+  dues:   $0.00
+  level:  Casual
+  age:    Regular
+  uscf:   No
+  games:
+    - W:  0
+    - D:  0
+    - L:  0
+  rating: 1200
+  ladder: 12
+ 
+- name:   Doo, Scooby
+  email:  test@gmail.com
+  dues:   $0.00
+  level:  Advanced
+  age:    Senior
+  uscf:   Yes, 1042
+  games:
+    - W:  12
+    - D:  1
+    - L:  2
+  rating: 1695
+  ladder: 1
 
-- name:
-  level:
-  membership:
-  uscf:
-  rating:
-  ladder:
+- name:   Duck, Donald
+  email:  test@gmail.com
+  dues:   $0.00
+  level:  Casual
+  age:    Regular
+  uscf:   Yes, 910
   games:
-    - W ##
-    - D ##
-    - L ##
+    - W:  2
+    - D:  3
+    - L:  5
+  rating: 1132
+  ladder: 7
+ 
+- name:   Flintstone, Fred
+  email:  test@gmail.com
+  dues:   $0.00
+  level:  Advanced
+  age:    Senior
+  uscf:   Yes, 912
+  games:
+    - W:  5
+    - D:  4
+    - L:  11
+  rating: 1330
+  ladder: 4 (-1)
+ 
+- name:   Jetson, George
+  email:  test@gmail.com
+  dues:   $0.00
+  level:  Beginner
+  age:    Senior
+  uscf:   No
+  games:
+    - W:  0
+    - D:  1
+    - L:  9
+  rating: 725
+  ladder: 10
 
-- name:
-  level:
-  membership:
-  uscf:
-  rating:
-  ladder:
+- name:   Lehorn, Foghorn
+  email:  test@gmail.com
+  dues:   $0.00
+  level:  Casual
+  age:    Senior
+  uscf:   No
   games:
-    - W ##
-    - D ##
-    - L ##
-
-- name:
-  level:
-  membership:
-  uscf:
-  rating:
-  ladder:
+    - W:  3
+    - D:  3
+    - L:  4
+  rating: 1250
+  ladder: 6
+ 
+- name:   Mouse, Mickey
+  email:  test@gmail.com
+  dues:   $0.00
+  level:  Beginner
+  age:    Junior
+  uscf:   No
   games:
-    - W ##
-    - D ##
-    - L ##
-
-- name:
-  level:
-  membership:
-  uscf:
-  rating:
-  ladder:
+    - W:  0
+    - D:  0
+    - L:  0
+  rating: 1200
+  ladder: 11
+ 
+- name:   Mouse, Minnie
+  email:  test@gmail.com
+  dues:   $0.00
+  level:  Beginner
+  age:    Regular
+  uscf:   No
   games:
-    - W ##
-    - D ##
-    - L ##
-
-- name:
-  level:
-  membership:
-  uscf:
-  rating:
-  ladder:
-  games:
-    - W ##
-    - D ##
-    - L ##
-
-- name:
-  level:
-  membership:
-  uscf:
-  rating:
-  ladder:
-  games:
-    - W ##
-    - D ##
-    - L ##
-
-- name:
-  level:
-  membership:
-  uscf:
-  rating:
-  ladder:
-  games:
-    - W ##
-    - D ##
-    - L ##
-
-- name:
-  level:
-  membership:
-  uscf:
-  rating:
-  ladder:
-  games:
-    - W ##
-    - D ##
-    - L ##
+    - W:  4
+    - D:  4
+    - L:  2
+  rating: 1300
+  ladder: 5
