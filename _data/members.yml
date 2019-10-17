@@ -8,7 +8,7 @@
   D:  1
   L:  4
   rating: 1560
-  ladder: 2 (+2)
+  ladder: 02 (+2)
 
 - name:   Bear, Yogi
   email:  test@gmail.com
@@ -20,7 +20,7 @@
   D:  4
   L:  4
   rating: 1120
-  ladder: 8
+  ladder: 08
 
 - name:   Blow, Joseph
   email:  test@gmail.com
@@ -32,7 +32,7 @@
   D:  1
   L:  4
   rating: 1440
-  ladder: 3 (-1)
+  ladder: 03 (-1)
 
 - name:   Bunny, Bugs
   email:  test@gmail.com
@@ -44,7 +44,7 @@
   D:  3
   L:  4
   rating: 975
-  ladder: 9
+  ladder: 09
 
 - name:   Coyote, Wile E.
   email:  test@gmail.com
@@ -68,7 +68,7 @@
   D:  1
   L:  2
   rating: 1695
-  ladder: 1
+  ladder: 01
 
 - name:   Duck, Donald
   email:  test@gmail.com
@@ -80,7 +80,7 @@
   D:  3
   L:  5
   rating: 1132
-  ladder: 7
+  ladder: 07
 
 - name:   Flintstone, Fred
   email:  test@gmail.com
@@ -92,7 +92,7 @@
   D:  4
   L:  11
   rating: 1330
-  ladder: 4 (-1)
+  ladder: 04 (-1)
 
 - name:   Jetson, George
   email:  test@gmail.com
@@ -116,7 +116,7 @@
   D:  3
   L:  4
   rating: 1250
-  ladder: 6
+  ladder: 06
 
 - name:   Mouse, Mickey
   email:  test@gmail.com
@@ -141,4 +141,4 @@
   D:  4
   L:  2
   rating: 1300
-  ladder: 5
+  ladder: 05
