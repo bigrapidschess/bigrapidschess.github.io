@@ -14,9 +14,9 @@ This is a logistic curve with an inflection point at 0 (each player has the same
 
 The first thing that we need to do is transform the player ratings into a scaled value. We can accomplish this with this formula: $ T=10^{\left(\frac{R}{400}\right)} $. So for our example game we would get:
 
-$$ T_{1}=10^{\left(\frac{R_{1}}{400}\right)} = 19,953 $$
+$$ T_{1}=10^{\left(\frac{1720}{400}\right)} = 19,953 $$
 
-$$ T_{2}=10^{\left(\frac{R_{2}}{400}\right)} = 13,335 $$
+$$ T_{2}=10^{\left(\frac{1650}{400}\right)} = 13,335 $$
 
 Now the expected winning probabilities for the players can be found by determining the log-odds.
 
