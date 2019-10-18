@@ -66,7 +66,9 @@
 	<!-- Extra Header JS Code -->
 	{{ site.data.settings.advanced_settings.header_js }}
 	{% endif %}
-
+    {% if page.use_math %}
+      {% include mathjax %}
+    {% endif %}
 </head>
 
 
