@@ -16,7 +16,7 @@ The first thing that we need to do is transform the player ratings into a scaled
 
 * T1 = player 1 transformed rating
 
-$$ T_{1}=10^{(\frac{R1}{400})} $$
+$$ T_{1}=10^{\big \(\frac{R1}{400}\big \)} = 19,953 $$
 
 For our example this  19,953 
 * T2 = player 2 transformed rating = 10^(R1/400); example: 13,335
