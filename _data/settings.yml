@@ -16,6 +16,8 @@ menu_settings:
       url: '/about'
     - title: 'Club Events'
       url: '/events'
+    - title: 'Current Players'
+      url: '/players'
     - title: 'Resources'
       url: '/resources'
     - title: 'Playing Online'
