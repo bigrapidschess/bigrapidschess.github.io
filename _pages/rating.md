@@ -31,6 +31,7 @@ $$ E_{2} = \frac{13,335}{19,953 + 13,335} = 0.40 $$
 The actual result of the game can only take on one of three values, 1 for a win, 0.5 for a draw, and 0 for a loss. Therefore, if player 2 wins or draws they will be outperforming their expected score. Player 1, in contrast, would need to win to outperform their expected score. Let us assume the most probable result occurs and the scores, S, are as follows:
 
 $$ S_{1} = 1 $$
+
 $$ S_{2} = 0 $$
 
 The fact that the actual scores and expected scores do not match can be taken as evidence that the players’ current ratings are not accurate representations of their abilities. Thus, we will want to adjust the original ratings to consider our new game data. This is performed by comparing the actual and expected scores and altering the original rating by the difference multiplied by a scaling factor called the K-factor. The USCF and our club use the value of 32 for the K-factor. Larger K-factors make the adjusted scores move faster and smaller K-factors have less pronounced effects upon the adjustments. The formula for a revised score is given by $ R' = R + K \times (S - E) $. In our example, this would be:
