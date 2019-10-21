@@ -66,15 +66,6 @@
 	<!-- Extra Header JS Code -->
 	{{ site.data.settings.advanced_settings.header_js }}
 	{% endif %}
-    	<!-- Javascript Assets -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="/js/journal-min.js"></script>
-
-	{% if site.data.settings.advanced_settings.footer_js %}
-	<!-- Extra Footer JS Code -->
-	{{ site.data.settings.advanced_settings.footer_js }}
-	{% endif %}
-
     {% if page.use_math %}
       {% include mathjax-helper.html %}
     {% endif %}
@@ -105,6 +96,15 @@
 
 	{% include footer.html %}
 
+
+	<!-- Javascript Assets -->
+	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+	<script src="/js/journal-min.js"></script>
+
+	{% if site.data.settings.advanced_settings.footer_js %}
+	<!-- Extra Footer JS Code -->
+	{{ site.data.settings.advanced_settings.footer_js }}
+	{% endif %}
 
 
 </body>
