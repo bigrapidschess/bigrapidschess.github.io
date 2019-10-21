@@ -12,7 +12,6 @@ The [Elo rating system](https://en.wikipedia.org/wiki/Elo_rating_system), pronou
 
 This is a logistic curve with an inflection point at where each player has the same rating. I made this plot using R. If you would like to make it too or modify it in some way, here is the code that I used.
 
-<div>
 ```
 #######################################################
 ## Code to Generate the Elo graph
@@ -36,7 +35,7 @@ basePlot + scale_x_continuous(breaks=seq(-1000,1000,200)) +
 	theme_bw()
 dev.off()
 ```
-</div>
+
 
 We can calculate the expected probability of a player as follows. Let’s assume for example that we have a chess game between two players with ratings R.
 
