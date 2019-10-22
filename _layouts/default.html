@@ -49,6 +49,10 @@
 	<script defer src="https://use.fontawesome.com/releases/v5.1.1/js/fontawesome.js" integrity="sha384-NY6PHjYLP2f+gL3uaVfqUZImmw71ArL9+Roi9o+I4+RBqArA2CfW1sJ1wkABFfPe" crossorigin="anonymous"></script>
     <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
     <script src="/js/jquery.tablesorter.js"></script>
+    <script src="/js/journal-min.js"></script>
+    {% if page.use_math %}
+      {% include mathjax-helper.html %}
+    {% endif %}
 
 
 	{% if site.data.settings.advanced_settings.custom_styles %}
@@ -66,9 +70,6 @@
 	<!-- Extra Header JS Code -->
 	{{ site.data.settings.advanced_settings.header_js }}
 	{% endif %}
-    {% if page.use_math %}
-      {% include mathjax-helper.html %}
-    {% endif %}
 </head>
 
 
@@ -98,8 +99,6 @@
 
 
 	<!-- Javascript Assets -->
-	<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
-	<script src="/js/journal-min.js"></script>
 
 	{% if site.data.settings.advanced_settings.footer_js %}
 	<!-- Extra Footer JS Code -->
