@@ -1,17 +1,18 @@
 ---
 title: Chess Ladder
 subtitle: One important part of our chess meetings is a chance to play competitive face-to-face games with each other. To add a little more interest, we have an ongoing chess ladder competition. The rules governing this activity are detailed below.
+use_math: true
 description: A brief explanation of the rules governing our chess ladder.
 featured_image: /images/my_background_green.jpg
 ---
 
 ## The rules
 
-* A lower number is a higher rank on the ladder, (better position). The goal of the competition is to move up the ladder, potentially to the number one position.
+**1:** A lower number is a higher rank on the ladder, (better position). The goal of the competition is to move up the ladder, potentially to the number one position.
 
-* A player (the challenger) may challenge another player with a higher rank (the defender) to play.
+$ Rule 2$ A player (the challenger) may challenge another player with a higher rank (the defender) to play.
 
-* The difference between the defender and challenger ranks must be no more than 4.
+Rule 3: The difference between the defender and challenger ranks must be no more than 4.
 (for example: rank #5 can challenge #1, but #6 can only challenge up to #2)
 
 * All challenges must be accepted unless the defender has already accepted a different challenge or are currently playing a game, or there is less than 20 minutes left to play in the session.
