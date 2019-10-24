@@ -1,41 +1,38 @@
 ---
 title: Chess Ladder
 subtitle: One important part of our chess meetings is a chance to play competitive face-to-face games with each other. To add a little more interest, we have an ongoing chess ladder competition. The rules governing this activity are detailed below.
-use_math: true
 description: A brief explanation of the rules governing our chess ladder.
 featured_image: /images/my_background_green.jpg
 ---
 
 ## The rules
 
-**1:** A lower number is a higher rank on the ladder, (better position). The goal of the competition is to move up the ladder, potentially to the number one position.
+**Rule 1:** A lower number is a higher rank on the ladder, (better position). The goal of the competition is to move up the ladder, potentially to the number one position.
 
-$ Rule 2$ A player (the challenger) may challenge another player with a higher rank (the defender) to play.
+**Rule 2:** A player, the challenger, may challenge another player with a higher rank, the defender, to play.
 
-Rule 3: The difference between the defender and challenger ranks must be no more than 4.
-(for example: rank #5 can challenge #1, but #6 can only challenge up to #2)
+**Rule 3:** The difference between the defender and challenger ranks must be no more than 4. <br /> _For example: rank #5 can challenge #1, but #6 can only challenge up to #2)_
 
-* All challenges must be accepted unless the defender has already accepted a different challenge or are currently playing a game, or there is less than 20 minutes left to play in the session.
+**Rule 4:** All challenges must be accepted unless the defender has already accepted a different challenge or are currently playing a game, or there is less than 20 minutes left to play in the session.
 
-* Refusing a valid challenge is counted as a loss for the defender.
+**Rule 5:** Refusing a valid challenge is counted as a loss for the defender.
 
-* Two players may not challenge each other in two consecutive games.
+**Rule 6:** Two players may not challenge each other in two consecutive games.
 
-* Players that are absent for two consecutive sessions lose one position on the ladder.
+**Rule 7:** Players that are absent for two consecutive sessions lose one position on the ladder.
 
-* In a ladder challenge game, the defender always plays with the black pieces.
+**Rule 8:** In a ladder challenge game, the defender always plays with the black pieces.
 
-* If the defender wins the challenge game, there is no change in player positions.
+**Rule 9:** If the defender wins the challenge game, there is no change in player positions.
 
-* If the players draw (tie) the challenge game, the challenger moves up to the spot just below the defender.<br /> 
-For example, if #7 challenges #3 and draws, #3 stays at #3 and #7 moves up to #4. Positions 4, 5, and 6 would be bumped down in the process.
+**Rule 10:** If the players draw (tie) the challenge game, the challenger moves up to the spot just below the defender.<br /> _For example, if #7 challenges #3 and draws, #3 stays at #3 and #7 moves up to #4. Positions 4, 5, and 6 would be bumped down in the process._
 
-* All draws must be approved by the Ladder Game Supervisor.
+**Rule 11:** All draws must be approved by the Ladder Game Supervisor.
 
-* If the challenger wins, they take the defender’s position on the ladder. The defender, and those below them, are bumped down one position on the ladder. <br />For example, if #7 challenges #3 and wins, #3 is bumped to #4 and #7 becomes the new #3. Positions 4, 5, and 6 would be bumped down in the process.
+**Rule 12:** If the challenger wins, they take the defender’s position on the ladder. The defender, and those below them, are bumped down one position on the ladder. <br /> _For example, if #7 challenges #3 and wins, #3 is bumped to #4 and #7 becomes the new #3. Positions 4, 5, and 6 would be bumped down in the process._
 
-* When a game is finished, the players must turn in a Ladder Challenge card to the Ladder Game Supervisor.
+**Rule 13:** When a game is finished, the players must turn in a Ladder Challenge card to the Ladder Game Supervisor.
 
-* New members are added to the bottom of the ladder.
+**Rule 14:** New members are added to the bottom of the ladder.
 
-* All disagreements and questions will be resolved by the Challenge Game Supervisor.
+**Rule 15:** All disagreements and questions will be resolved by the Challenge Game Supervisor.
