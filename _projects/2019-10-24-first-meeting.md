@@ -10,7 +10,7 @@ background_image: /images/events/meeting1-1.png
 
 Yesterday there were three boards active and we had several other interested people drop by. For the first session, I think that we had some pretty evenly matched games. Some preliminary results have been posted on our website on the [players page](https://bigrapidschess.com/players). Here are a few picturs of the action.
 
-<div class="gallery" data-columns="2">
+<div class="gallery" data-columns="3">
     <img src="/images/events/meeting1-1.png">
     <img src="/images/events/meeting1-2.png">
     <img src="/images/events/meeting1-3.jpg">
