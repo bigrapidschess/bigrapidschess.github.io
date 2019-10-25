@@ -1,144 +1,71 @@
-- name:   Ant, Atom
+- name:   Aaron
   email:  test@gmail.com
   dues:   $0.00
   level:  Casual
   age:    Junior
   uscf:   Yes, unrated
-  W:  5
-  D:  1
-  L:  4
-  rating: 1560
-  ladder: 2 (+2)
-
-- name:   Bear, Yogi
-  email:  test@gmail.com
-  dues:   $0.00
-  level:  Casual
-  age:    Junior
-  uscf:   No
-  W:  2
-  D:  4
-  L:  4
-  rating: 1120
-  ladder: 8
-
-- name:   Blow, Joseph
-  email:  test@gmail.com
-  dues:   $0.00
-  level:  Casual
-  age:    Junior
-  uscf:   No
-  W:  5
-  D:  1
-  L:  4
-  rating: 1440
-  ladder: 3 (-1)
-
-- name:   Bunny, Bugs
-  email:  test@gmail.com
-  dues:   $0.00
-  level:  Casual
-  age:    Junior
-  uscf:   No
   W:  3
-  D:  3
-  L:  4
-  rating: 975
-  ladder: 9
+  D:  0
+  L:  3
+  rating: 1203
+  ladder: 3
 
-- name:   Coyote, Wile E.
+- name:   Carter
   email:  test@gmail.com
   dues:   $0.00
   level:  Casual
   age:    Regular
   uscf:   No
-  W:  0
+  W:  2
   D:  0
-  L:  0
-  rating: 1200 (new)
-  ladder: 12
+  L:  3
+  rating: 1180
+  ladder: 4
 
-- name:   Doo, Scooby
+- name:   Clifton
+  email:  clifton.franklund@gmail.com
+  dues:   $0.00
+  level:  Casual
+  age:    Regular
+  uscf:   Yes, unrated
+  W:  2
+  D:  0
+  L:  1
+  rating: 1215
+  ladder: 2
+
+- name:   Mike
   email:  test@gmail.com
   dues:   $0.00
-  level:  Advanced
-  age:    Senior
-  uscf:   Yes, 1042
-  W:  12
-  D:  1
-  L:  2
-  rating: 1695
+  level:  Casual
+  age:    Regular
+  uscf:   Yes, unrated
+  W:  2
+  D:  0
+  L:  1
+  rating: 1218
   ladder: 1
 
-- name:   Duck, Donald
-  email:  test@gmail.com
-  dues:   $0.00
-  level:  Casual
-  age:    Regular
-  uscf:   Yes, 910
-  W:  2
-  D:  3
-  L:  5
-  rating: 1132
-  ladder: 7
-
-- name:   Flintstone, Fred
-  email:  test@gmail.com
-  dues:   $0.00
-  level:  Advanced
-  age:    Senior
-  uscf:   Yes, 912
-  W:  5
-  D:  4
-  L:  11
-  rating: 1330
-  ladder: 4 (-1)
-
-- name:   Jetson, George
-  email:  test@gmail.com
-  dues:   $0.00
-  level:  Beginner
-  age:    Senior
-  uscf:   No
-  W:  0
-  D:  1
-  L:  9
-  rating: 725
-  ladder: 10
-
-- name:   Lehorn, Foghorn
-  email:  test@gmail.com
-  dues:   $0.00
-  level:  Casual
-  age:    Senior
-  uscf:   No
-  W:  3
-  D:  3
-  L:  4
-  rating: 1250
-  ladder: 6
-
-- name:   Mouse, Mickey
+- name:   Saloni
   email:  test@gmail.com
   dues:   $0.00
   level:  Beginner
   age:    Junior
   uscf:   No
-  games:
   W:  0
   D:  0
-  L:  0
-  rating: 1200 (new)
-  ladder: 11
+  L:  2
+  rating: 1168
+  ladder: 6
 
-- name:   Mouse, Minnie
+- name:   Saumya
   email:  test@gmail.com
   dues:   $0.00
   level:  Beginner
-  age:    Regular
+  age:    Junior
   uscf:   No
-  W:  4
-  D:  4
-  L:  2
-  rating: 1300
+  W:  1
+  D:  0
+  L:  1
+  rating: 1200
   ladder: 5
