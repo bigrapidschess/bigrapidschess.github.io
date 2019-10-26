@@ -12,8 +12,8 @@ Yesterday there were three boards active and we had several other interested peo
 
 <div class="gallery" data-columns="2">
     <img src="/images/events/meeting1-1.png">
+    <img src="/images/events/meeting1-3.png">
     <img src="/images/events/meeting1-2.png">
-    <img src="/images/events/meeting1-3.jpg">
 </div>
 
 Due to scheduling conflicts at the library, we will not be able to meet for the next two weeks. Watch here and on our [Chess.com](https://www.chess.com/club/big-rapids-chess) club page for more news. Hope to see even more people at our next meeting.
