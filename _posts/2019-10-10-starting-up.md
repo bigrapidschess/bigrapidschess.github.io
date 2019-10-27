@@ -8,7 +8,7 @@ excerpt: Welcome to the new Big Rapids Chess group. Next week, on October 17, 20
 
 ![](/images/announcement.jpg)
 
-## Starting up
+### Starting up
 
 Welcome to the new Big Rapids Chess group. Next week, on October 17, 2019, we will hold our first public meeting in the Community room at the Big Rapids Community Library. Come join us and enjoy some time with a casual game of chess (or two). We will meet from 5:00 to 7:00 pm. Hope to see you there.
 
