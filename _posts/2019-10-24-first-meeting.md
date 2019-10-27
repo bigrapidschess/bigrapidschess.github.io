@@ -1,9 +1,9 @@
 ---
 title: 'First Meeting'
-subtitle: 'We had our first club meeting at the Big Rapids Community Library on October 24, 2019.'
 date: 2019-10-24 00:00:00
 featured_image: /images/my_background_green.jpg
 background_image: /images/events/meeting1-1.png
+excerpt: Six of us got together for our first club meet at the library. For the first session, I think that we had some pretty evenly matched games.
 ---
 
 ### Getting Started
