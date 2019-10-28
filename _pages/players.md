@@ -1,5 +1,5 @@
 ---
-title: Membership
+title: Chess Ladder
 subtitle: This is the initial ladder of active club players following our first meeting at the library on October 24, 2019. We will keep track of the games played during club meetings here and update the scores on a weekly basis. We will not meet for a couple of weeks, though, due to scheduling conflicts at the library. See you at the next session.
 description: A listing of our current players.
 featured_image: /images/my_background_green.jpg
