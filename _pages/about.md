@@ -25,4 +25,4 @@ We already meet informally on the campus of Ferris State University. However, it
 We anticipate that many young players may be interested in participating in this group. If enough junior members are interested, we may develop a scholastic branch of the club that is dedicated to teaching chess basics and providing safe opportunities to play both face-to-face and online chess games.
 
 ### Club bylaws
-As for now, the club is still in its infancy and organization is rather loose. Once  membership grows to more than about a dozen or so regularly attending members, we will adopt specific bylaws and formalize the group's leadership.
+As for now, the club is still in its infancy and organization is rather loose. Once  membership grows to more than about a dozen or so regularly attending members, we will adopt specific bylaws and formalize the group's leadership. A [draft](./bylaws.html) copy of the bylaws is currently under development.
