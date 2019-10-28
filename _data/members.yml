@@ -1,71 +1,97 @@
-- name:   Aaron
-  email:  test@gmail.com
-  dues:   $0.00
-  level:  Casual
-  age:    Junior
-  uscf:   Yes, unrated
-  W:  3
-  D:  0
-  L:  3
-  rating: 1203
-  ladder: 3
+- name:      Aaron
+  firstName: Aaron
+  lastName:  Maxfield
+  email:     mikemaxfield@mac.com
+  dues:      $0.00
+  level:     Casual
+  age:       Junior
+  uscf:      Yes, unrated
+  W:         3
+  D:         0
+  L:         3
+  rating:    1203
+  ladder:    3
 
-- name:   Carter
-  email:  test@gmail.com
-  dues:   $0.00
-  level:  Casual
-  age:    Regular
-  uscf:   No
-  W:  2
-  D:  0
-  L:  3
-  rating: 1180
-  ladder: 4
+- name:      Carter
+  firstName: Carter
+  lastName:
+  email:     test@gmail.com
+  dues:      $0.00
+  level:     Casual
+  age:       Regular
+  uscf:      No
+  W:         2
+  D:         0
+  L:         3
+  rating:    1180
+  ladder:    4
 
-- name:   Clifton
-  email:  clifton.franklund@gmail.com
-  dues:   $0.00
-  level:  Casual
-  age:    Regular
-  uscf:   Yes, unrated
-  W:  2
-  D:  0
-  L:  1
-  rating: 1215
-  ladder: 2
+- name:      Clifton
+  firstName: Clifton
+  lastName:  Franklund
+  email:     clifton.franklund@gmail.com
+  dues:      $0.00
+  level:     Casual
+  age:       Regular
+  uscf:      Yes, unrated
+  W:         2
+  D:         0
+  L:         1
+  rating:    1215
+  ladder:    2
 
-- name:   Mike
-  email:  test@gmail.com
-  dues:   $0.00
-  level:  Casual
-  age:    Regular
-  uscf:   Yes, unrated
-  W:  2
-  D:  0
-  L:  1
-  rating: 1218
-  ladder: 1
+- name:      Mike
+  firstName: Mike
+  lastName:  Maxfield
+  email:     mikemaxfield@mac.com
+  dues:      $0.00
+  level:     Casual
+  age:       Regular
+  uscf:      Yes, unrated
+  W:         2
+  D:         0
+  L:         1
+  rating:    1218
+  ladder:    1
 
-- name:   Saloni
-  email:  test@gmail.com
-  dues:   $0.00
-  level:  Beginner
-  age:    Junior
-  uscf:   No
-  W:  0
-  D:  0
-  L:  2
-  rating: 1168
-  ladder: 6
+- name:      Saloni
+  firstName: Saloni
+  lastName:
+  email:     test@gmail.com
+  dues:      $0.00
+  level:     Beginner
+  age:       Junior
+  uscf:      No
+  W:         0
+  D:         0
+  L:         2
+  rating:    1168
+  ladder:    6
 
-- name:   Saumya
-  email:  test@gmail.com
-  dues:   $0.00
-  level:  Beginner
-  age:    Junior
-  uscf:   No
-  W:  1
-  D:  0
-  L:  1
-  rating: 1200
-  ladder: 5
+- name:      Saumya
+  firstName: Saumya
+  lastName:
+  email:     test@gmail.com
+  dues:      $0.00
+  level:     Beginner
+  age:       Junior
+  uscf:      No
+  W:         1
+  D:         0
+  L:         1
+  rating:    1200
+  ladder:    5
+
+- name:      Ekta
+  firstName: Ekta
+  lastName:  Amar
+  email:     ektaamar@gmail.com
+  dues:      $0.00
+  level:     Beginner
+  age:       Junior
+  uscf:      No
+  W:         0
+  D:         0
+  L:         0
+  rating:    1200
+  ladder:    7
