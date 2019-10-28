@@ -28,32 +28,40 @@ featured_image: /images/my_background_green.jpg
 **Section 2:** There shall be four types of membership in Big Rapids Chess - regular members, senior members, junior members, and associate members.
 
 **Section 3:** Regular members 
-* Shall be between the ages of 18 and 64 years old, inclusively 
-* Shall pay dues as established by the Big Rapids Chess board
-* Shall be eligible to vote at membership meetings
-* May hold any of Big Rapids Chess board offices
-* May participate in all Big Rapids Chess functions contingent upon payment of any associated fees
+<ol style="padding-left: 20px;">
+<li>Shall be between the ages of 18 and 64 years old, inclusively</li> 
+<li>Shall pay dues as established by the Big Rapids Chess board</li>
+<li>Shall be eligible to vote at membership meetings</li>
+<li>May hold any of Big Rapids Chess board offices</li>
+<li>May participate in all Big Rapids Chess functions contingent upon payment of any associated fees</li>
+</ol>
 
 **Section 4:** Senior members
-* Shall be over the age of 64 years old
-* Shall pay dues as established by the Big Rapids Chess board
-* Shall be eligible to vote at membership meetings
-* May hold any of the Big Rapids Chess board offices
-* May participate in all Big Rapids Chess functions contingent upon payment of any associated fees
+<ol style="padding-left: 20px;">
+<li>Shall be over the age of 64 years old</li>
+<li>Shall pay dues as established by the Big Rapids Chess board</li>
+<li>Shall be eligible to vote at membership meetings</li>
+<li>May hold any of the Big Rapids Chess board offices</li>
+<li>May participate in all Big Rapids Chess functions contingent upon payment of any associated fees</li>
+</ol>
 
 **Section 5:** Junior members
-* Shall be under the age of 18 years old 
-* Shall pay dues as established by the Big Rapids Chess board
-* Shall be eligible to vote at membership meetings
-* May hold any of the Big Rapids Chess board offices other than President or Treasurer
-* May participate in all Big Rapids Chess functions contingent upon payment of any associated fees
+<ol style="padding-left: 20px;">
+<li>Shall be under the age of 18 years old</li> 
+<li>Shall pay dues as established by the Big Rapids Chess board</li>
+<li>Shall be eligible to vote at membership meetings</li>
+<li>May hold any of the Big Rapids Chess board offices other than President or Treasurer</li>
+<li>May participate in all Big Rapids Chess functions contingent upon payment of any associated fees</li>
+</ol>
 
 **Section 6:** Associate members
-* May be of any age 
-* Are not required to pay dues 
-* Are not eligible to vote at membership meetings
-* May not hold any of the Big Rapids Chess board offices
-* May participate in all Big Rapids Chess functions contingent upon payment of any associated fees
+<ol style="padding-left: 20px;">
+<li>May be of any age</li> 
+<li>Are not required to pay dues</li> 
+<li>Are not eligible to vote at membership meetings</li>
+<li>May not hold any of the Big Rapids Chess board offices</li>
+<li>May participate in all Big Rapids Chess functions contingent upon payment of any associated fees</li>
+</ol>
 
 **Section 7:** Regular, senior, or junior members that fail to pay the annual Big Rapids Chess dues will be converted to associate memberships.
 
@@ -64,40 +72,49 @@ featured_image: /images/my_background_green.jpg
 **Section 2:** The officers shall have the right to censure, suspend or expel a member for conduct unacceptable to the Big Rapids Chess board. Any permanent action taken against a member requires a simple majority vote by the officers.
 
 **Section 3:** Duties of the President include:
-<ol style="padding-left: 15px;">
+<ol style="padding-left: 20px;">
 <li>Presiding over activities of the club except as otherwise provided in the bylaws.</li>  
 <li>Monitoring and assisting other officers in carrying out their respective duties.</li>  
 <li>Appointing assistants or committees as needed to perform special tasks.</li>  
 <li>Receiving and answering all club correspondence.</li>  
 <li>Providing that the purpose of the club is fulfilled.</li>  
 </ol>
-**Section 4:** Duties of the Vice President include:
 
-1. Presiding over activities of the club except as otherwise provided in the bylaws.  
-2. Monitoring and assisting other officers in carrying out their respective duties.  
+**Section 4:** Duties of the Vice President include:
+<ol style="padding-left: 20px;">
+<li>Presiding over activities of the club except as otherwise provided in the bylaws.</li>  
+<li>Monitoring and assisting other officers in carrying out their respective duties.</li>  
+</ol>
 
 **Section 5:** Duties of the Treasurer include:
-
-1.Maintaining records of all club income and expenses.  
-2. Collecting and recording all dues and fees at club events.  
-3. Making all disbursements authorized by the officers.  
-4. Other duties assigned by the President.  
-5. Performing duties of the President in the absence of the President.  
+<ol style="padding-left: 20px;">
+<li>Maintaining records of all club income and expenses.</li>  
+<li>Collecting and recording all dues and fees at club events.</li>  
+<li>Making all disbursements authorized by the officers.</li>  
+<li>Other duties assigned by the President.</li>  
+<li>Performing duties of the President in the absence of the President.</li>
+</ol>
 
 **Section 6:** Duties of the Communications Director include:
-* Record and maintain club membership information.
-* Notify membership of upcoming meetings and events.
-* Record and maintain club bylaws and other documentation.
-* Other duties assigned by the President.
-* Perform duties of the President in the absence of the President and Treasurer.
+<ol style="padding-left: 20px;">
+<li>Record and maintain club membership information.</li>
+<li>Notify membership of upcoming meetings and events.</li>
+<li>Record and maintain club bylaws and other documentation.</li>
+<li>Other duties assigned by the President.</li>
+<li>Perform duties of the President in the absence of the President and Treasurer.</li>
+</ol>
 
 **Section 7:** Duties of the Scholastic Director include:
-* Presiding over activities of the club except as otherwise provided in the bylaws.
-* Monitoring and assisting other officers in carrying out their respective duties.
+<ol style="padding-left: 20px;">
+<li>Presiding over activities of the club except as otherwise provided in the bylaws.</li>
+<li>Monitoring and assisting other officers in carrying out their respective duties.</li>
+</ol>
 
 **Section 8:** Duties of the Collegiate Director include:
-* Presiding over activities of the club except as otherwise provided in the bylaws.
-* Monitoring and assisting other officers in carrying out their respective duties.
+<ol style="padding-left: 20px;">
+<li>Presiding over activities of the club except as otherwise provided in the bylaws.</li>
+<li>Monitoring and assisting other officers in carrying out their respective duties.</li>
+</ol>
 
 ### Article VII - Elections
 
@@ -108,8 +125,10 @@ featured_image: /images/my_background_green.jpg
 **Section 1:** Big Rapids Chess may be dissolved with the unanimous approval of the club officers and a two-thirds majority vote by the club membership.
 
 **Section 2:** In the event of dissolution the net assets of the club shall be distributed as follows:
-* All liabilities and obligations shall be paid, satisfied, and discharged or adequate provisions shall be made thereof.
-* All remaining assets shall be distributed back to the club membership as deemed appropriate by the officers.
+<ol style="padding-left: 20px;">
+<li>All liabilities and obligations shall be paid, satisfied, and discharged or adequate provisions shall be made thereof.</li>
+<li>All remaining assets shall be distributed back to the club membership as deemed appropriate by the officers.</li>
+</ol>
 
 ### Article X - Amendments
 
