@@ -64,22 +64,22 @@ featured_image: /images/my_background_green.jpg
 **Section 2:** The officers shall have the right to censure, suspend or expel a member for conduct unacceptable to the Big Rapids Chess board. Any permanent action taken against a member requires a simple majority vote by the officers.
 
 **Section 3:** Duties of the President include:
-* Presiding over activities of the club except as otherwise provided in the bylaws.
-* Monitoring and assisting other officers in carrying out their respective duties.
-* Appointing assistants or committees as needed to perform special tasks.
-* Receiving and answering all club correspondence.
-* Providing that the purpose of the club is fulfilled.
+> * Presiding over activities of the club except as otherwise provided in the bylaws.
+> * Monitoring and assisting other officers in carrying out their respective duties.
+> * Appointing assistants or committees as needed to perform special tasks.
+> * Receiving and answering all club correspondence.
+> * Providing that the purpose of the club is fulfilled.
 
 **Section 4:** Duties of the Vice President include:
 Presiding over activities of the club except as otherwise provided in the bylaws.
 * Monitoring and assisting other officers in carrying out their respective duties.
 
 **Section 5:** Duties of the Treasurer include:
-* Maintaining records of all club income and expenses.
-* Collecting and recording all dues and fees at club events.
-* Making all disbursements authorized by the officers.
-* Other duties assigned by the President.
-* Performing duties of the President in the absence of the President.
+1. Maintaining records of all club income and expenses.
+2. Collecting and recording all dues and fees at club events.
+3. Making all disbursements authorized by the officers.
+4. Other duties assigned by the President.
+5. Performing duties of the President in the absence of the President.
 
 **Section 6:** Duties of the Communications Director include:
 * Record and maintain club membership information.
