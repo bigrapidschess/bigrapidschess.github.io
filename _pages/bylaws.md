@@ -125,33 +125,33 @@ featured_image: /images/my_background_green.jpg
 </ol>
 
 ### Article VII - Elections
-<span style="color: black;">**Section 1:**</span>Voting membership includes all junior, regular, and senior members that have paid their dues for the current year.
+<span style="color: black;">**Section 1:**</span> Voting membership includes all junior, regular, and senior members that have paid their dues for the current year.
 
-<span style="color: black;">**Section 2:**</span>The current Vice President becomes the sitting President in the following club year.
+<span style="color: black;">**Section 2:**</span> The current Vice President becomes the sitting President in the following club year.
 
-<span style="color: black;">**Section 3:**</span>Voting members may nominate themselves or other eligable members for the positions of Vice President, Treasurer, Communication Director, Scholastic Director, and Collegiate Director.
+<span style="color: black;">**Section 3:**</span> Voting members may nominate themselves or other eligable members for the positions of Vice President, Treasurer, Communication Director, Scholastic Director, and Collegiate Director.
 
-<span style="color: black;">**Section 4:**</span>The President, Vice President, and Treasurer must be either a regular or senior member.
+<span style="color: black;">**Section 4:**</span> The President, Vice President, and Treasurer must be either a regular or senior member.
 
-<span style="color: black;">**Section 5:**</span>A electronic ballot of all valid nominations will be distributed to all voting members for a period of one week.
+<span style="color: black;">**Section 5:**</span> A electronic ballot of all valid nominations will be distributed to all voting members for a period of one week.
 
-<span style="color: black;">**Section 6:**</span>Tied elections for any position will be resolved with an electronic run-off election.
+<span style="color: black;">**Section 6:**</span> Tied elections for any position will be resolved with an electronic run-off election.
 
-<span style="color: black;">**Section 7:**</span>Elections shall take place during the first week of January each year.
+<span style="color: black;">**Section 7:**</span> Elections shall take place during the first week of January each year.
 
-<span style="color: black;">**Section 8:**</span>The terms of office are for one year and may are renewable.
+<span style="color: black;">**Section 8:**</span> The terms of office are for one year and may are renewable.
 
 ### Article VIII - Club Functions
 
-<span style="color: black;">**Section 1:**</span>All club functions must be approved by the board.
+<span style="color: black;">**Section 1:**</span> All club functions must be approved by the board.
 
-<span style="color: black;">**Section 2:**</span>All club functions must be supervised and directed by a member of the board, or a person that the board has authorized.
+<span style="color: black;">**Section 2:**</span> All club functions must be supervised and directed by a member of the board, or a person that the board has authorized.
 
-<span style="color: black;">**Section 3:**</span>All club functions should be publicized online or in other media for at least one week beforehand.
+<span style="color: black;">**Section 3:**</span> All club functions should be publicized online or in other media for at least one week beforehand.
 
-<span style="color: black;">**Section 4:**</span>All club functions should be open for all participants, subject to payment of any requisite dues or fees, and other membership requirements.
+<span style="color: black;">**Section 4:**</span> All club functions should be open for all participants, subject to payment of any requisite dues or fees, and other membership requirements.
 
-<span style="color: black;">**Section 5:**</span>All USCF-rated functions should be published in _Chess Life_ whenever possible.
+<span style="color: black;">**Section 5:**</span> All USCF-rated functions should be published in _Chess Life_ whenever possible.
 
 ### Article IX - Dissolution
 
