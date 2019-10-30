@@ -6,6 +6,6 @@ featured_image: /images/my_background_green.jpg
 ---
 
 ### Current players
-You can click on the table headings to sort the table information by column. An greater part of our meetings is involved in playing against each other for position on our player ladder.  We have created [a resource document](ladder-rules.html) that explains how our chess ladder operates. A club Elo rating is also calculated and posted for each active player. [An explanation](rating.html) of how players scores are calculated is also available.   
+You can click on the table headings to sort the table information by column. An greater part of our meetings is involved in playing against each other for position on our player ladder.  We have created [a resource document](ladder-rules.html) that explains how our chess ladder operates. There is also an [online copy](ChessLadder.pdf) of the rules as well. A club Elo rating is also calculated and posted for each active player. [An explanation](rating.html) of how players scores are calculated is also available.   
 
 {% include interactive-table.html %}
