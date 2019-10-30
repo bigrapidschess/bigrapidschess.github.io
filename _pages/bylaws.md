@@ -50,7 +50,7 @@ featured_image: /images/my_background_green.jpg
 <li>Shall be under the age of 18 years old</li> 
 <li>Shall pay dues as established by the Big Rapids Chess board</li>
 <li>Shall be eligible to vote at membership meetings</li>
-<li>May hold any of the Big Rapids Chess board offices other than President or Treasurer</li>
+<li>May hold any of the Big Rapids Chess board offices other than President, Vice President, or Treasurer</li>
 <li>May participate in all Big Rapids Chess functions contingent upon payment of any associated fees</li>
 </ol>
 
@@ -101,25 +101,57 @@ featured_image: /images/my_background_green.jpg
 <ol style="padding-left: 20px;">
 <li>Recording minutes for all official Big Rapids Chess board meetings.</li>
 <li>Recording and maintaining club bylaws and other documentation.</li>
+<li>Maintaining the various social media accounts of the club, including but not limited to the club Facebook page and the club Twitter feed, and the website.</li>
+<li>Organizing and carrying out community service and other outreach events as so agreed upon by the board.</li>  
 <li>Performing duties of the President in cases where the President, Vice President,and Treasurer are unable or unwilling to perform their duties.</li>
 <li>Performing other duties assigned by the President.</li>
 </ol>
 
 <span style="color: black;">**Section 7:**</span> Duties of the Scholastic Director include:
 <ol style="padding-left: 20px;">
-<li>Presiding over activities of the club except as otherwise provided in the bylaws.</li>
-<li>Monitoring and assisting other officers in carrying out their respective duties.</li>
+<li>Presiding over activities of the club involving junior members.</li>
+<li>Monitoring and maintaining the club Chess Kids account.</li>
+<li>Communicating regularly with junior members and their parents.</li>
+<li>Overseeing junior member tournaments as TD, both face-to-face and online.</li>
 </ol>
 
 <span style="color: black;">**Section 8:**</span> Duties of the Collegiate Director include:
 <ol style="padding-left: 20px;">
-<li>Presiding over activities of the club except as otherwise provided in the bylaws.</li>
-<li>Monitoring and assisting other officers in carrying out their respective duties.</li>
+<li>Acting as the faculty advisor for the chess Registered Student Organization at Ferris.</li>
+<li>Presiding over activities of the club involving Ferris State University members.</li>
+<li>Monitoring and maintaining the club Lichess account.</li>
+<li>Communicating regularly with student members.</li>
+<li>Overseeing collegiate member tournaments as TD, both face-to-face and online.</li>
 </ol>
 
 ### Article VII - Elections
+<span style="color: black;">**Section 1:**</span>Voting membership includes all junior, regular, and senior members that have paid their dues for the current year.
+
+<span style="color: black;">**Section 2:**</span>The current Vice President becomes the sitting President in the following club year.
+
+<span style="color: black;">**Section 3:**</span>Voting members may nominate themselves or other eligable members for the positions of Vice President, Treasurer, Communication Director, Scholastic Director, and Collegiate Director.
+
+<span style="color: black;">**Section 4:**</span>The President, Vice President, and Treasurer must be either a regular or senior member.
+
+<span style="color: black;">**Section 5:**</span>A electronic ballot of all valid nominations will be distributed to all voting members for a period of one week.
+
+<span style="color: black;">**Section 6:**</span>Tied elections for any position will be resolved with an electronic run-off election.
+
+<span style="color: black;">**Section 7:**</span>Elections shall take place during the first week of January each year.
+
+<span style="color: black;">**Section 8:**</span>The terms of office are for one year and may are renewable.
 
 ### Article VIII - Club Functions
+
+<span style="color: black;">**Section 1:**</span>All club functions must be approved by the board.
+
+<span style="color: black;">**Section 2:**</span>All club functions must be supervised and directed by a member of the board, or a person that the board has authorized.
+
+<span style="color: black;">**Section 3:**</span>All club functions should be publicized online or in other media for at least one week beforehand.
+
+<span style="color: black;">**Section 4:**</span>All club functions should be open for all participants, subject to payment of any requisite dues or fees, and other membership requirements.
+
+<span style="color: black;">**Section 5:**</span>All USCF-rated functions should be published in _Chess Life_ whenever possible.
 
 ### Article IX - Dissolution
 
