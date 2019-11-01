@@ -7,9 +7,9 @@ collections:
   posts:
     output: true
     permalink: /blog/:slug
-  projects:
+  lessons:
     output: true
-    permalink: /project/:slug
+    permalink: /lesson/:slug
   resources:
     output: true
     permalink: /resource/:slug
@@ -35,9 +35,9 @@ defaults:
   -
     scope:
       path: ""
-      type: "projects"
+      type: "lessons"
     values:
-      layout: "project"
+      layout: "lesson"
   -
     scope:
       path: ""
