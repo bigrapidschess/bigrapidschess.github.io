@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Club Events
-subtitle: Here are some of the things that our club has been doing lately.
+title: Chess Lessons
+subtitle: Here are some instructional materials that we have used at our club.
 description: Big Rapids Chess promotes playing and learning chess in the Big Rapids area.
 featured_image: /images/my_background_green.jpg
 ---
@@ -21,18 +21,18 @@ featured_image: /images/my_background_green.jpg
 
 	<div class="wrap">
 
-		{% for project in site.projects reversed %}
+		{% for lesson in site.lessons reversed %}
 
 		<div class="portfolio-item">
 
-			<a class="portfolio-item__link" href="{{ project.url }}">
+			<a class="portfolio-item__link" href="{{ lesson.url }}">
 
-				<div class="portfolio-item__image" style="background-image: url({{ project.background_image  }});"></div>
+				<div class="portfolio-item__image" style="background-image: url({{ lesson.background_image  }});"></div>
 
 				<div class="portfolio-item__content">
 					<div class="portfolio-item__info">
-						<h2 class="portfolio-item__title">{{ project.title }}</h2>
-						<p class="portfolio-item__subtitle">{{ project.subtitle }}</p>
+						<h2 class="portfolio-item__title">{{ lesson.title }}</h2>
+						<p class="portfolio-item__subtitle">{{ lesson.subtitle }}</p>
 					</div>
 				</div>
 
