@@ -8,7 +8,7 @@ excerpt: This is a first try at setting up instructional puzzles.
 ---
 
 ### Mating with two rooks
-I would put some explanatory text here to set the stage for an interative chess exercies.
+I would put some explanatory text here to set the stage for an interative chess exercises.
 <div class="responsiveGame">
 <iframe allowTransparency="true" border="0" frameborder="0" src="//www.chess.com/emboard?id=6352908"></iframe>
 </div>
