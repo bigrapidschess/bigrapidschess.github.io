@@ -1,8 +1,9 @@
 ---
-title: 'Sample Puzzle'
+title: 'Two Rooks and King versus King'
 date: 2019-11-02 00:00:00
 featured_image: /images/my_background_green.jpg
 background_image: /images/events/meeting1-1.png
+category: Checkmates
 excerpt: This is a first try at setting up instructional puzzles.
 ---
 
