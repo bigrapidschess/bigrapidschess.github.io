@@ -20,27 +20,61 @@ featured_image: /images/my_background_green.jpg
 <section class="portfolio">
 
 	<div class="wrap">
+		<h3>Beginner Material</h3>
+		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess.</p>
 
 		{% for lesson in site.lessons reversed %}
-
-		<div class="portfolio-item">
-
-			<a class="portfolio-item__link" href="{{ lesson.url }}">
-
-				<div class="portfolio-item__image" style="background-image: url({{ lesson.background_image  }});"></div>
-
-				<div class="portfolio-item__content">
-					<div class="portfolio-item__info">
-						<h2 class="portfolio-item__title">{{ lesson.title }}</h2>
-						<p class="portfolio-item__subtitle">{{ lesson.subtitle }}</p>
-					</div>
-				</div>
-
-			</a>
-
-		</div>
-
+		<ul>
+			{% if lesson.category == "Beginning" %}
+				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
+			{% endif %}
+		</ul>
 		{% endfor %}
+
+		<h3>Checkmates</h3>
+		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess.</p>
+
+		{% for lesson in site.lessons reversed %}
+		<ul>
+			{% if lesson.category == "Checkmates" %}
+				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
+			{% endif %}
+		</ul>
+		{% endfor %}
+
+		<h3>Openings</h3>
+		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess.</p>
+
+		{% for lesson in site.lessons reversed %}
+		<ul>
+			{% if lesson.category == "Openings" %}
+				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
+			{% endif %}
+		</ul>
+		{% endfor %}
+
+		<h3>Tactics</h3>
+		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess.</p>
+
+		{% for lesson in site.lessons reversed %}
+		<ul>
+			{% if lesson.category == "Tactics" %}
+				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
+			{% endif %}
+		</ul>
+		{% endfor %}
+
+		<h3>Endgames</h3>
+		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess.</p>
+
+		{% for lesson in site.lessons reversed %}
+		<ul>
+			{% if lesson.category == "Endgames" %}
+				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
+			{% endif %}
+		</ul>
+		{% endfor %}
+
 
 	</div>
 
