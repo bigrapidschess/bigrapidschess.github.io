@@ -16,6 +16,6 @@ I would put some explanatory text here to set the stage for an interative chess 
 
 I plan to add additional text after the exercise too. These documents will have several different interactive elements each.
 
-<div>
+<div class="responsiveGame">
 <iframe allowtransparency="true" border="0" frameborder="0" height="465" width="603" src="//www.chess.com/emboard?id=6355378"></iframe>
 </div>
