@@ -15,3 +15,5 @@ I would put some explanatory text here to set the stage for an interative chess 
 </div>
 
 I plan to add additional text after the exercise too. These documents will have several different interactive elements each.
+
+https://www.chess.com/bundles/web/images/diagram-placeholder.png
