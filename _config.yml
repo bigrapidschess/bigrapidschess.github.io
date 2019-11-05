@@ -9,10 +9,10 @@ collections:
     permalink: /blog/:slug
   lessons:
     output: true
-    permalink: /lessons/:slug
+    permalink: /lesson/:slug
   resources:
     output: true
-    permalink: /resources/:slug
+    permalink: /resource/:slug
 
 defaults:
   -

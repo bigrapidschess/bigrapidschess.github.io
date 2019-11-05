@@ -23,58 +23,53 @@ featured_image: /images/my_background_green.jpg
 
 		<h3>Beginner Material</h3>
 		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess. This is by no means an exhaustive resource; we have neither the time nor the expertise to create such a compendium. Instead, you may view these as an entry point to learning more about this fascinating game.</p>
-
-		{% for lesson in site.lessons %}
 		<ul>
+		{% for lesson in site.lessons %}
 			{% if lesson.category == "Beginning" %}
 				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
 			{% endif %}
-		</ul>
 		{% endfor %}
+		</ul>
 
 		<h3>Checkmates</h3>
 		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess.</p>
-
-		{% for lesson in site.lessons %}
 		<ul>
+		{% for lesson in site.lessons %}
 			{% if lesson.category == "Checkmates" %}
 				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
 			{% endif %}
-		</ul>
 		{% endfor %}
+		</ul>
 
 		<h3>Openings</h3>
 		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess.</p>
-
-		{% for lesson in site.lessons %}
 		<ul>
+		{% for lesson in site.lessons %}
 			{% if lesson.category == "Openings" %}
 				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
 			{% endif %}
-		</ul>
 		{% endfor %}
+		</ul>
 
 		<h3>Tactics</h3>
 		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess.</p>
-
-		{% for lesson in site.lessons %}
 		<ul>
+		{% for lesson in site.lessons %}
 			{% if lesson.category == "Tactics" %}
 				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
 			{% endif %}
-		</ul>
 		{% endfor %}
+		</ul>
 
 		<h3>Endgames</h3>
 		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess.</p>
-
-		{% for lesson in site.lessons %}
 		<ul>
+		{% for lesson in site.lessons %}
 			{% if lesson.category == "Endgames" %}
 				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
 			{% endif %}
-		</ul>
 		{% endfor %}
+		</ul>
 
 	</div>
 
