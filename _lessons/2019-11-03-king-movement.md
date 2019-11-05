@@ -2,7 +2,7 @@
 title: 'King Movement'
 date: 2019-11-03 00:00:00
 featured_image: /images/my_background_green.jpg
-category: Beginning
+category: 'Beginning'
 excerpt: This is a first try at setting up instructional puzzles.
 ---
 
