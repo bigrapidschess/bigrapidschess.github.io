@@ -2,7 +2,7 @@
 title: 'Anastasia's Mate'
 date: 2019-11-05 00:00:00
 featured_image: /images/my_background_green.jpg
-category: Checkmates
+category: 'Checkmates'
 excerpt: This is a first try at setting up instructional puzzles.
 ---
 

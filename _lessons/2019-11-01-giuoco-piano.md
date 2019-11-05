@@ -2,7 +2,7 @@
 title: 'The Giuoco Piano Opening'
 date: 2019-11-01 00:00:00
 featured_image: /images/my_background_green.jpg
-category: Openings
+category: 'Openings'
 excerpt: This is a first try at setting up instructional puzzles.
 ---
 
