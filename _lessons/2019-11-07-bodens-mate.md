@@ -1,5 +1,5 @@
 ---
-title: 'Boden's Mate'
+title: 'Bodens Mate'
 date: 2019-11-01 00:00:00
 featured_image: /images/my_background_green.jpg
 category: Checkmates

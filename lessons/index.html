@@ -24,7 +24,7 @@ featured_image: /images/my_background_green.jpg
 		<h3>Beginner Material</h3>
 		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess.</p>
 
-		{% for lesson in site.lessons reversed %}
+		{% for lesson in site.lessons %}
 		<ul>
 			{% if lesson.category == "Beginning" %}
 				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
@@ -35,7 +35,7 @@ featured_image: /images/my_background_green.jpg
 		<h3>Checkmates</h3>
 		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess.</p>
 
-		{% for lesson in site.lessons reversed %}
+		{% for lesson in site.lessons %}
 		<ul>
 			{% if lesson.category == "Checkmates" %}
 				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
@@ -46,7 +46,7 @@ featured_image: /images/my_background_green.jpg
 		<h3>Openings</h3>
 		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess.</p>
 
-		{% for lesson in site.lessons reversed %}
+		{% for lesson in site.lessons %}
 		<ul>
 			{% if lesson.category == "Openings" %}
 				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
@@ -57,7 +57,7 @@ featured_image: /images/my_background_green.jpg
 		<h3>Tactics</h3>
 		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess.</p>
 
-		{% for lesson in site.lessons reversed %}
+		{% for lesson in site.lessons %}
 		<ul>
 			{% if lesson.category == "Tactics" %}
 				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
@@ -68,7 +68,7 @@ featured_image: /images/my_background_green.jpg
 		<h3>Endgames</h3>
 		<p>This is a series of quick introductory lessons to familiarize those new to the game to some of the basics of chess.</p>
 
-		{% for lesson in site.lessons reversed %}
+		{% for lesson in site.lessons %}
 		<ul>
 			{% if lesson.category == "Endgames" %}
 				<li><a href={{lesson.url}}>{{lesson.title}}</a></li>
