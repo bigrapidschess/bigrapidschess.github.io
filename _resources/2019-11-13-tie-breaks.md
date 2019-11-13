@@ -2,6 +2,7 @@
 title: 'Big Rapids Chess Tie Breaks'
 subtitle: 'This is an ordered list of riules that we will use to break all ties in rated events.'
 date: 2019-11-13 00:00:00
+use_math: true
 featured_image: /images/my_background_green.jpg
 background_image: /images/resources/initiative.jpg
 ---
