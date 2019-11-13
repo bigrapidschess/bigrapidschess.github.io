@@ -8,7 +8,7 @@ background_image: /images/resources/initiative.jpg
 
 ![](/images/resources/initiative.jpg)
 
-## Background
+### Background
 
 In 2016, several chess sets were donated to local businesses in the Big Rapids downtown. This effort was reported by the [Big Rapids Pioneer](https://www.bigrapidsnews.com/local-news/article/Initiative-distributes-chess-sets-across-Big-14137386.php) on February 19, 2016. The goal of this effort was to make chess more visible and available in the Big Rapids area. Club members are encouraged to patronize the participating locations and use the public chess sets. A list of our current locations includes:
 
