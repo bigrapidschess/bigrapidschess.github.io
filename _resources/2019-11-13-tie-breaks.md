@@ -4,10 +4,10 @@ subtitle: 'This is an ordered list of riules that we will use to break all ties 
 date: 2019-11-13 00:00:00
 use_math: true
 featured_image: /images/my_background_green.jpg
-background_image: /images/resources/initiative.jpg
+background_image: /images/resources/crosstable.jpg
 ---
 
-![](/images/resources/initiative.jpg)
+![](/images/resources/crosstable.jpg)
 
 ### Background
 
