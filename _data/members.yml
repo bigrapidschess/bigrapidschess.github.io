@@ -96,16 +96,3 @@
   rating:    1200
   ladder:    7
 
-- name:      Dan
-  firstName: Daniel
-  lastName:  Taylor
-  email:     dr.daniel.taylor@gmail.com
-  dues:      $0.00
-  level:     Advanced
-  age:       Regular
-  uscf:      Yes
-  W:         0
-  D:         0
-  L:         0
-  rating:    1200
-  ladder:    8
