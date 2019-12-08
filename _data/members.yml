@@ -6,11 +6,11 @@
   level:     Casual
   age:       Junior
   uscf:      Yes, unrated
-  W:         3
+  W:         5
   D:         0
-  L:         3
-  rating:    1203
-  ladder:    3
+  L:         5
+  rating:    1189
+  ladder:    2
 
 - name:      Carter
   firstName: Carter
@@ -34,11 +34,11 @@
   level:     Casual
   age:       Regular
   uscf:      Yes, unrated
-  W:         2
+  W:         5
   D:         0
   L:         1
-  rating:    1215
-  ladder:    2
+  rating:    1257
+  ladder:    1
 
 - name:      Mike
   firstName: Mike
@@ -50,9 +50,9 @@
   uscf:      Yes, unrated
   W:         2
   D:         0
-  L:         1
+  L:         4
   rating:    1218
-  ladder:    1
+  ladder:    3
 
 - name:      Saloni
   firstName: Saloni
@@ -95,3 +95,17 @@
   L:         0
   rating:    1200
   ladder:    7
+
+- name:      Daniel
+  firstName: Daniel
+  lastName:  Taylor
+  email:     dr.daniel.taylor@gmail.com
+  dues:      $0.00
+  level:     Advanced
+  age:       Regular
+  uscf:      Yes
+  W:         0
+  D:         0
+  L:         0
+  rating:    1200
+  ladder:    8
