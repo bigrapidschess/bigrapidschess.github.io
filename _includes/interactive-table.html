@@ -12,6 +12,7 @@ jQuery(document).ready(function($){
 			<th data-sortinitialorder="desc"><span>Games Played</span></th>
 			<th data-sortinitialorder="desc"><span>Club Rating</span></th>
 			<th data-sortinitialorder="asc"><span>Ladder Position</span></th>
+			<td data-sortintialorder="asc"><span>First Name</span></td>
 		</tr>
 	</thead>
 	<tbody>
@@ -21,6 +22,7 @@ jQuery(document).ready(function($){
 			<td>W{{ item.W }} / D{{ item.D }} / L{{ item.L }}</td>
 			<td>{{ item.rating }}</td>
 			<td>{{ item.ladder }}</td>
+			<td>{{ item.firstName }}</td>
 		</tr>
 	{% endfor %}
 	</tbody>
